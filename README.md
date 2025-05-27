@@ -1,5 +1,5 @@
 # Portfolio-Of-Data-Projects
-This repository hosts the complete projects featured in my professional resume, showcasing my skills and practical experience in analytics and machine learning.
+This repository hosts the complete projects featured in my professional resume, showcasing my skills and practical experience in business analytics and machine learning.
 
 ### Breast Cancer Classification - Built a supervised classification model achieving 96.5% accuracy and 0.957 AUC, flawlessly identifying class 0 and misclassifying only 4 of 47 class 1 cases.
 ### Data Visualization - 80 Cereals - Performed nutritional analysis of 77 cereal products using Python (Pandas, Matplotlib, Seaborn), evaluating calories, sugar content, and consumer ratings to identify healthiest options and drive product innovation.
